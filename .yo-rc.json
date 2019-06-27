@@ -35,6 +35,8 @@
     "otherModules": [],
     "enableTranslation": true,
     "nativeLanguage": "en",
-    "languages": ["en", "nl"]
+    "languages": ["en", "nl"],
+    "herokuAppName": "birble-with-featherz",
+    "herokuDeployType": "git"
   }
 }
